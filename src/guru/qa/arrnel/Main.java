@@ -8,6 +8,6 @@ public class Main {
     }
     
     void tempMethod(){
-        System.out.println("Temp Method");    
+        System.out.println("TEMP METHOD");
     }
 }
