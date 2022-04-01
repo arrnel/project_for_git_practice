@@ -8,6 +8,6 @@ public class Main {
     }
     
     void tempMethod(){
-        System.out.println("TEMP METHOD");
+        System.out.println("TEMP METHOD_edited_in_master");
     }
 }
