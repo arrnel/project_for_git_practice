@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hello, QA.GURU!!!");
         System.out.println("slowBranchText");
     }
+    
+    void tempMethod(){
+        System.out.println("Temp Method");    
+    }
 }
